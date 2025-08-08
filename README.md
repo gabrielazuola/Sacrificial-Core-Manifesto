@@ -1,7 +1,5 @@
 # Sacrificial Core — Official Documents
 
-![Sacrificial Core Cover](PORTADA_OPCIONAL.png)
-
 This repository contains the **official publications** authored by **Gabriel Hidalgo Azuola** on the *Sacrificial Core*, a proposed architectural safeguard to ensure that advanced artificial intelligence remains irrevocably in the service of humanity.
 
 ---
